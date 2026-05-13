@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Physics
 - 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on AI - new methods, RL, LLMs, and Computer Vision
-- 📫 How to reach me ... kvemuru@gmail.com
+- 📫 My email contact information will be added here. 
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...
 
